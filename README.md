@@ -1,6 +1,6 @@
 # Hi, I'm Lakshmi Likitha 👋
 
-Senior Frontend Engineer with 9+ years of experience building enterprise web applications using Angular, React, TypeScript, JavaScript, HTML, CSS, and REST APIs.
+Senior Frontend Engineer with 10+ years of experience building enterprise web applications using Angular, React, TypeScript, JavaScript, HTML, CSS, and REST APIs.
 
 ## Skills
 
